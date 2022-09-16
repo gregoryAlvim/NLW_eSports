@@ -8,9 +8,11 @@
 
 ## Web
 
+![image](https://user-images.githubusercontent.com/43592358/190660265-d4a5a910-5b3a-4402-bede-1da453c7b069.png)
 
 ## Mobile
-
+ 
+![image](https://user-images.githubusercontent.com/43592358/190664283-f749b715-5218-4a32-8385-5360fc34a8e2.png)
 
 <p align="center"> Frontend da aplicação desenvolvido com HTML, CSS, JavaScript e React.js </p>
 
