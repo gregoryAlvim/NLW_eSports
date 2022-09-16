@@ -1,3 +1,12 @@
+// Melhorias:
+
+// Usar este select ao invés do nativo: https://www.radix-ui.com/docs/primitives/components/select
+// CreateAdModal componente para os dias da semana
+// CreateAdModal validação form, react-hook-form
+// Responsivo
+// Carrossel com Keen-slider
+// Autenticação no caso login Twitch ou Discord
+
 
 import { CreateAdBanner } from './components/CreateAdBanner';
 import { GameBanner } from './components/GameBanner';
