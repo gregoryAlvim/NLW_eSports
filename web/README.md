@@ -8,11 +8,7 @@
 
 ## Rotas do login
 
-![exemploAuthRoutes](https://user-images.githubusercontent.com/43592358/189493014-4255981b-25aa-47dd-8c4e-148eac171fc4.gif)
-
 ## Rotas da aplicação
-
-![exemploAppRoutes](https://user-images.githubusercontent.com/43592358/189493343-bc6fd66c-08c9-4fd9-af76-8a404c76de54.gif)
 
 <p align="center"> Frontend da aplicação desenvolvido com HTML, CSS, JavaScript e React.js </p>
 
@@ -37,8 +33,6 @@ Utilizamos HTML, CSS, JavaScript e React.js durante o desenvolvimento do fronten
 <!-- Para visualizar uma demo do Rocket Notes, <a href="https://gregoryalvim.github.io/Rocketnotes/" target="_blank">clique aqui</a>. -->
 
 <br/>
-
-
 
 ## Features
 
