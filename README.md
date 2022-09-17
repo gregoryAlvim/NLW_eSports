@@ -2,9 +2,9 @@
 
 <br/>
 
-<h4 align="center">
+<!-- <h4 align="center">
    🚧 README em construção... 🚧
-</h4>
+</h4> -->
 
 <p align="center"><img src="./web/src/assets/logo-nlw-esports.svg"></p>
 
