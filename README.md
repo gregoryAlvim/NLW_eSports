@@ -6,6 +6,8 @@
    🚧 README em construção... 🚧
 </h4>
 
+<p align="center"><img src="./web/src/assets/logo-nlw-esports.svg"></p>
+
 ## Web
 
 ![image](https://user-images.githubusercontent.com/43592358/190660265-d4a5a910-5b3a-4402-bede-1da453c7b069.png)
@@ -14,7 +16,7 @@
  
 ![image](https://user-images.githubusercontent.com/43592358/190664283-f749b715-5218-4a32-8385-5360fc34a8e2.png)
 
-<p align="center"> Frontend da aplicação desenvolvido com HTML, CSS, JavaScript e React.js </p>
+<p align="center"> Projeto desenvolvido com React.js, React Native e Node.js </p>
 
 #
 
@@ -30,64 +32,42 @@
 
 ## Sobre
 
-O Rocket Notes é uma aplicação para salvar e gerenciar seus links úteis. O frontend foi desenvolvido em aula do zero, utilizando a prototipação disponível no 
-<a href="https://www.figma.com/file/vDZGT0kRIhEcaG1wt7rsQ0/RocketNotes-(Copy)?node-id=0%3A1" target="_blank">Figma</a>.
-Utilizamos HTML, CSS, JavaScript e React.js durante o desenvolvimento do frontend, aplicando os conceitos que foram vistos anteriormente no stage 9 do Explorer.
-
-<!-- Para visualizar uma demo do Rocket Notes, <a href="https://gregoryalvim.github.io/Rocketnotes/" target="_blank">clique aqui</a>. -->
+O NLW eSports é uma aplicação para gamers encontrarem o seu duo. Todo o projeto foi desenvolvido do zero, utilizando a prototipação disponível no 
+<a href="https://www.figma.com/file/tjty8qmHITe9lBlgvL8jvX/NLW-eSports-(Community)?node-id=0%3A1" target="_blank">Figma</a>.
+Utilizamos HTML, CSS, JavaScript, Typescript, React.js, React Native e Node.js durante o desenvolvimento do projeto, aplicando na prática um conteúdo que me levou para o próximo nível.
 
 <br/>
 
 ## Features
 
-- [x] Setup Vite
-- [x] React
-- [x] React icons
-- [x] React Router Dom
-- [x] Styled Components
-- [x] Global Styles
-- [x] Global Theme
-- [x] Detail Page
-- [x] Home Page
-- [x] New Page
-- [x] Profile Page
-- [x] SignIn Page
-- [x] SignUp Page
-- [x] Header component
-- [x] Section component
-- [x] Button component
-- [x] ButtonText component
-- [x] Input component
-- [x] Note component
-- [x] NoteItem component
-- [x] Tag component
-- [x] Textarea component
-- [x] Authentic routes
-- [x] App routes
-- [x] Programação Orientada a Objetos
+- [x] Aplicação Web em React.js
+- [x] Aplicação Mobile em React Native
+- [x] API das aplicações em Node.js
 
 <br/>
 
 ## Tecnologias
 
-Tecnologias utilizadas para desenvolvimento do Frontend:
+Tecnologias utilizadas para desenvolvimento do projeto:
 
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
 - [JavaScript](https://www.w3schools.com/js/)
+- [Typescript](https://www.typescriptlang.org/)
 - [React.js](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Node.js](https://nodejs.org/en/)
 
 <br/>
 
 ## Requisitos
 
 - [Vite](https://vitejs.dev/)
+- [Expo](https://docs.expo.dev/get-started/installation/)
+- [npm](https://www.npmjs.com/)
 - [React.js](https://pt-br.reactjs.org/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [React Router Dom](https://reactrouter.com/en/main)
-- [Styled Components](https://styled-components.com/)
-- [Git](https://git-scm.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [React Native](https://reactnative.dev/)
+- [Node.js](https://nodejs.org/en/)
 
 <br/>
 
