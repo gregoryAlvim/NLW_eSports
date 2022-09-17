@@ -38,6 +38,12 @@ Utilizamos HTML, CSS, JavaScript, Typescript, React.js, React Native e Node.js d
 
 <br/>
 
+## Objetivo
+
+O evento Next Level Week tem como objetivo desenvolver uma aplicação durante uma semana bem intensa e desafiadora, utilizando recursos altamente solicitados pelo mercado, trazendo capacitação e experiência para o profissional. Participei do NLW eSports, tive contato com uma comunidade engajada, que me ajudou em alguns momentos ao longo do desenvolvimento. Foi uma experiência incrível e de grande capacitação!
+
+<br/>
+
 ## Features
 
 - [x] Aplicação Web em React.js
